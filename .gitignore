@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files / large data
+*.pkl
+*.h5
+*.pt
+*.joblib
+*.onnx
+
+# Data files (optional)
+data/
+*.csv
+*.tsv
+*.json
+
+# Logs and outputs
+*.log
+*.out
+
+# VSCode / IDE config
+.vscode/
+.idea/
+*.swp
+
+# Output folders
+__output__/
+outputs/
+checkpoints/
